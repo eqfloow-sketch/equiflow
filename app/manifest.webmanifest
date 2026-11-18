@@ -1,0 +1,19 @@
+{
+  "name": "Equiflow — Carnet équestre",
+  "short_name": "Equiflow",
+  "description": "Suivi des séances, chevaux et progression équestre",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#051F20",
+  "theme_color": "#051F20",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
